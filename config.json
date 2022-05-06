@@ -1,0 +1,43 @@
+{
+    "token": "OTcyMjIxNjg0NTExODIxOTE1.YnV6AA.JskQJ5Bp1xQTzA9fPt9Q8VH2GKM",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/972224671770636378/E3cCyw2nEKaYMMu0qDom1e1zno24M5uXTsocVPuNXSEZ15SVJNAosngGbJxHInzgzTLl": {
+            "url": "https://www.vinted.fr/vetements?search_text=nike&brand_id[]=53&size_id[]=209&size_id[]=208&size_id[]=207&price_from=0.0&currency=EUR&search_id=4794629089&order=newest_first&price_to=30",
+            "salon": "vinted-test"
+        },
+        "https://discord.com/api/webhooks/972226588374609990/DdeNheztf-awadcWGjwsw1RY6lcmCrR6RfMvHN7VDC8f6sutrO0hHLh2gl2zitiq3m_A": {
+            "url": "https://www.vinted.fr/vetements?search_text=nike&brand_id[]=53&brand_id[]=2319&brand_id[]=362&brand_id[]=304&brand_id[]=88&size_id[]=209&size_id[]=208&size_id[]=207&price_from=0.0&price_to=30.0&currency=EUR&search_id=4794629089&order=newest_first",
+            "salon": "vinted-test"
+        },
+        "https://discord.com/api/webhooks/972226889345273866/a84-agxRt3syt3YJo60RCVutgGNc6oyl0EgBSb5W-CqIL_JUyZPwhCaDDgqc1u-J6rSJ": {
+            "url": "https://www.vinted.fr/vetements?search_text=nike&brand_id[]=53&size_id[]=209&size_id[]=208&size_id[]=207&price_from=0.0&currency=EUR&search_id=4794629089&order=newest_first&price_to=30",
+            "salon": "nike"
+        },
+        "https://discord.com/api/webhooks/972227034757611621/Ur3EBqSp52vyyM4vjQxsfXv8seynYfUQmJMHAj7xzUQv3SgVvvZHdQLS2_dyz4AT9ISw": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=304&size_id[]=209&size_id[]=208&size_id[]=207&price_from=0.0&price_to=30.0&currency=EUR&search_id=4794629089&order=newest_first&search_text=",
+            "salon": "lacoste"
+        },
+        "https://discord.com/api/webhooks/972227181273051196/bw5iiceKm762lSdHH5mejDi2BaDTxtaKxMOiTLl_sET0WNjHRw5rYXzZWjAi1RrCWHJ3": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=88&size_id[]=209&size_id[]=208&size_id[]=207&price_from=0.0&price_to=30.0&currency=EUR&search_id=4794629089&order=newest_first&search_text=",
+            "salon": "ralph-lauren"
+        },
+        "https://discord.com/api/webhooks/972229741589438584/EIWKWy1Ewuk3503dBS48CyHXEU6xep6YlH1Cvlyb4l_UpgGcciRfKCmtqalGluDVrv16": {
+            "url": "https://www.vinted.fr/vetements?search_id=5212825116&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=2319&price_from=0&currency=EUR&price_to=30&order=newest_first&search_text=",
+            "salon": "the-north-face"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
